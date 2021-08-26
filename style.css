@@ -258,6 +258,18 @@ section .title::after{
 }
 
 /* services section styling */
+.one{
+    display: inline-block;
+    background: rgb(218, 69, 0);
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid rgb(224, 157, 130);
+    transition: all 0.3s ease;
+}
 .services, .teams{
     color:#fff;
     background: #111;
